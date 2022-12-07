@@ -4,7 +4,7 @@ from pytube import YouTube
 root = Tk()
 root.geometry('500x300')
 root.resizable(0,0,)
-root.title("Onusbs YouTube downloader")
+root.title("Jason's YouTube downloader")
 Label(root,text = "YouTube downloader", font = 'arial 20 bold').pack()
 
 link =  StringVar()
